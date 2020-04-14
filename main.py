@@ -1,6 +1,7 @@
 import pygame
 pygame.init()
 
+#update test value 
 test = 7
 print(test)
 print(test)
