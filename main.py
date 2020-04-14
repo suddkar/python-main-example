@@ -1,7 +1,7 @@
 import pygame
 pygame.init()
 
-test = 7
+test = "Pandemic situation"
 print(test)
 print(test)
 print(test)
