@@ -11,6 +11,8 @@ print(x)
 print(x)
 print(x)
 
+# test the comments
+
 
 # this added bu Sudhakar
 
@@ -19,6 +21,12 @@ N="URGENT VACCSIN REQUIRED"
 print(N)
 print(N)
 print(N)
+
+
+M= "COVID-19"
+print(M)
+print(M)
+print(M)
 
 
 
