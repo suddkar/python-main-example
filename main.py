@@ -12,6 +12,14 @@ print(x)
 print(x)
 
 
+# this added bu Sudhakar
+
+N="URGENT VACCSIN REQUIRED"
+
+print(N)
+print(N)
+print(N)
+
 
 
 
