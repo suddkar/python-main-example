@@ -10,10 +10,17 @@ print(test)
 print(test)
 print(test)
 
+
+x1="Hello World from Australia"
+print(x1)
+print(x1)
+print(x1)
+
 x="******Hello World from Australia****"
 print(x)
 print(x)
 print(x)
+
 
 # test the comments
 
