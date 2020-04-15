@@ -3,9 +3,8 @@ pygame.init()
 
 
 #update test value
-test = 7
 
-test = "Pandemic situation"
+test = "&&&&&&&& Pandemic situation &&&&&&&"
 
 print(test)
 print(test)
