@@ -6,10 +6,10 @@ print(test)
 print(test)
 print(test)
 
-x="Hello World from Australia"
-print(x)
-print(x)
-print(x)
+x1="Hello World from Australia"
+print(x1)
+print(x1)
+print(x1)
 
 # test the comments
 
